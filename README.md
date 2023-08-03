@@ -30,7 +30,7 @@ Run the game:
 
 ruby
 Copy code
-$ python main.py
+$ python TicTacToe.py
 Usage
 Upon running the game, a window will open displaying the Tic Tac Toe board.
 
